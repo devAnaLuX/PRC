@@ -3,9 +3,9 @@ Exiba o valor da constante atribuída.
 */
 #include <stdio.h>
 
-int main()
+#define CONSTANTE 3
 
-    #define CONSTANTE 3
+int main()
     
 {
     printf("%d", CONSTANTE);

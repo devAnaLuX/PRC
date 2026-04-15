@@ -1,16 +1,19 @@
-/*Escreva um programa para ler a idade de uma pessoa e exibir quantos dias de vida ela possui.
-Considere sempre anos “cheios" e que um ano possui 365 dias.
+/* - Lê a idade e converte em dias de vida que ela possui.
+
+     Ana Luisa Reis - 08/04/26
 */
 
 #include <stdio.h>
 
 int main()
 {
-    int idade, dias;
+    int idade, dias; //variáveis
     
     printf("Digite sua idade: ");
+    //leitura idade
     scanf("%d",&idade);
     
+    //cálculo de conversão
     dias = idade*365;
     
     printf("Sua idade em dias é %d", dias);

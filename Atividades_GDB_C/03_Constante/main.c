@@ -1,5 +1,6 @@
-/*4 - Criar um programa que define e atribua valor a uma constante antes do programa principal.
-Exiba o valor da constante atribuída.
+/* - Exibe a constante.
+
+     Ana Luisa Reis - 06/04/26
 */
 #include <stdio.h>
 

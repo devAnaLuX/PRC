@@ -1,5 +1,6 @@
-/*5 - Crie um programa que declare uma variável global, uma variável local e atribua valor
-para ambas dentro função main. Exiba os valores atribuídos.
+/* - Uma variável global nome e uma local idade, os dois são exibidos.
+
+     Ana Luisa Reis - 06/04/26
 */
 #include <stdio.h>
 

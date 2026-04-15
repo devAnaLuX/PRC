@@ -1,6 +1,6 @@
-/* 1 - Abrir  o compilador (online ou desktop), criar um nome arquivo (.c) chamado HelloWorld.
-2 - Programar, utlizando a biblioteca stdio.h, função main e printf, de forma que o programa 
-retorne a mensagem "Alô mundo!".
+/* - Imprime "Alô mundo!".
+
+     Ana Luisa Reis - 06/04/26
 */
 
 #include <stdio.h>

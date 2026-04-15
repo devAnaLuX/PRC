@@ -1,5 +1,6 @@
-/* 3 -Criar um progrma que declare variáveis com os tipos int, float, double e char e 
-atribua valores a estas variáveis. Exiba o valor de cada tipo.
+/* - Exibe as variáveis do tipo int, float, double e char na tela
+
+     Ana Luisa Reis - 06/04/26
 */
 #include <stdio.h>
 
